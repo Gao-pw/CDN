@@ -1,0 +1,7 @@
+# 自用标识库
+
+[toc]
+
+## 1. js 标识siroi
+
+> https://cdn.jsdelivr.net/gh/gao-pw/CDN/self/myself.js
