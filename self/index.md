@@ -4,4 +4,5 @@
 
 ## 1. js 标识siroi
 
-> https://cdn.jsdelivr.net/gh/gao-pw/CDN/self/myself.js
+> https://cdn.jsdelivr.net/gh/gao-pw/CDN@1.0.0.3/self/myself.js
+
